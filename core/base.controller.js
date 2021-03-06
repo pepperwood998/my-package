@@ -1,1 +1,1 @@
-module.exports = 'Controller String 2';
+module.exports = 'Controller String';
